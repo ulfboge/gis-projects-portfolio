@@ -1,11 +1,11 @@
 title: "Grön infrastruktur & kompensation"
-slug: "gron-infrastruktur-kompensation"
-client: "Trafikverket"
+slug: "gron-infrastruktur-kompensation-2022-2025"
+client: "Region W"
 location: "Sverige"
 years: "2022–2025"
-tags: ["GIS", "Grön infrastruktur", "Kompensation", "Biodiversitet", "Sverige"]
+tags: ["Grön infrastruktur", "Kompensation", "Sverige"]
 summary: >
-  Utveckling av metodik för grön infrastruktur och kompensationsåtgärder vid vägbyggnation, med fokus på ekologisk connectivity och biodiversitet.
+  Konnektivitet, barriärer och prioriterade kompensationsytor för grön infrastruktur vid vägbyggnation.
 data_sources:
   national:
     - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"

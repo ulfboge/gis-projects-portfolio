@@ -1,12 +1,12 @@
 # Grön infrastruktur & kompensation
 
-**Beställare:** Trafikverket  
+**Beställare:** Region W  
 **Plats:** Sverige  
 **År:** 2022–2025  
-**Taggar:** GIS, Grön infrastruktur, Kompensation, Biodiversitet, Sverige
+**Taggar:** Grön infrastruktur, Kompensation, Sverige
 
 !!! abstract "Sammanfattning"
-    Utveckling av metodik för grön infrastruktur och kompensationsåtgärder vid vägbyggnation, med fokus på ekologisk connectivity och biodiversitet. Projektet kombinerar GIS-analys med ekologisk modellering för att optimera kompensationsåtgärder och bevara ekosystemtjänster.
+    Konnektivitet, barriärer och prioriterade kompensationsytor för grön infrastruktur vid vägbyggnation.
 
 ## Metodik (svenska dataset)
 - Lantmäteriet: Ortofoto, Laserdata NH (DEM), GSD-Hydrografi

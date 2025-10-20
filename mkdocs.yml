@@ -1,5 +1,5 @@
 
-site_name: GIS & Fjärranalys – Projektportfölj
+site_name: GIS & Fjärranalys – Exempelprojekt (Sverige)
 site_description: Exempelprojekt (Sverige) – Lantmäteriet, SLU, Skogsstyrelsen m.fl.
 site_url: https://ulfboge.github.io/gis-projects-portfolio/
 repo_url: https://github.com/ulfboge/gis-projects-portfolio
@@ -21,6 +21,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
   - Startsida: index.md
+  - Om & Kontakt: om.md
 plugins:
   - search
 markdown_extensions:

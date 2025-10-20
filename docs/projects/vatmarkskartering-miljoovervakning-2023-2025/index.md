@@ -1,12 +1,12 @@
 # Våtmarkskartering – Miljöövervakning
 
-**Beställare:** Länsstyrelse  
+**Beställare:** Länsstyrelsen Z  
 **Plats:** Sverige  
 **År:** 2023–2025  
-**Taggar:** GIS, Våtmark, Miljöövervakning, Fjärranalys, Sverige
+**Taggar:** Våtmark, SAR, Sverige
 
 !!! abstract "Sammanfattning"
-    Långsiktig våtmarkskartering och miljöövervakning med satellitdata och fältverifiering för att följa våtmarksförändringar över tid. Projektet använder tidsserieanalys av Sentinel-1/2 och Landsat-data för att identifiera trender och förändringar i våtmarksområden.
+    SAR/optik-tidsserier för att kartlägga våtmarksförändringar.
 
 ## Metodik (svenska dataset)
 - Lantmäteriet: Ortofoto, Laserdata NH (DEM), GSD-Hydrografi

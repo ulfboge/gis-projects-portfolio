@@ -1,11 +1,11 @@
 title: "Våtmarkskartering – Miljöövervakning"
-slug: "vatmarkskartering-miljooevervakning"
-client: "Länsstyrelse"
+slug: "vatmarkskartering-miljoovervakning-2023-2025"
+client: "Länsstyrelsen Z"
 location: "Sverige"
 years: "2023–2025"
-tags: ["GIS", "Våtmark", "Miljöövervakning", "Fjärranalys", "Sverige"]
+tags: ["Våtmark", "SAR", "Sverige"]
 summary: >
-  Långsiktig våtmarkskartering och miljöövervakning med satellitdata och fältverifiering för att följa våtmarksförändringar över tid.
+  SAR/optik-tidsserier för att kartlägga våtmarksförändringar.
 data_sources:
   national:
     - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"
