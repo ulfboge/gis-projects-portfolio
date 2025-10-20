@@ -1,6 +1,9 @@
 
 # GIS & Fjärranalys – Projektportfölj (MkDocs)
 
+![Deploy](https://github.com/ulfboge/gis-projects-portfolio/actions/workflows/gh-pages.yml/badge.svg)
+[![GitHub Pages](https://img.shields.io/badge/Pages-Live-brightgreen)](https://ulfboge.github.io/gis-projects-portfolio/)
+
 Publika exempelprojekt med svensk inriktning (Lantmäteriet, SLU, Skogsstyrelsen m.fl.).  
 Varje projekt ligger i `docs/projects/<slug>/` med metadata och en projektsida (`index.md`).
 
