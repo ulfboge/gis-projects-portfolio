@@ -1,0 +1,20 @@
+title: "Naturvärdesinventering – Översiktsplan"
+slug: "naturvardesinventering-oversiktsplan"
+client: "Kommun"
+location: "Sverige"
+years: "2024"
+tags: ["GIS", "Naturvärdesinventering", "Översiktsplan", "Sverige"]
+summary: >
+  Omfattande naturvärdesinventering för kommunal översiktsplanering med fokus på biologisk mångfald och ekosystemtjänster.
+data_sources:
+  national:
+    - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"
+    - "SLU: Nationella Marktäckedata (NMD)"
+    - "Skogsstyrelsen: Skogliga grunddata"
+    - "Naturvårdsverket: Naturreservat, Natura 2000"
+  other: []
+deliverables:
+  - "GeoPackage med naturvärdeslager och metadata (HMK)"
+  - "PDF-kartor (A3/A4) + QML-stilar"
+  - "Rapport med naturvärdesanalys (PDF)"
+license_note: "Ange ev. datalicenser och restriktioner (Lantmäteriet m.fl.)."

@@ -1,0 +1,22 @@
+title: "Våtmarkskartering – Miljöövervakning"
+slug: "vatmarkskartering-miljooevervakning"
+client: "Länsstyrelse"
+location: "Sverige"
+years: "2023–2025"
+tags: ["GIS", "Våtmark", "Miljöövervakning", "Fjärranalys", "Sverige"]
+summary: >
+  Långsiktig våtmarkskartering och miljöövervakning med satellitdata och fältverifiering för att följa våtmarksförändringar över tid.
+data_sources:
+  national:
+    - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"
+    - "SLU: Nationella Marktäckedata (NMD)"
+    - "Skogsstyrelsen: Skogliga grunddata"
+    - "SMHI: Vattenföring, nederbörd"
+  other: 
+    - "Sentinel-1/2 satellitdata (ESA)"
+    - "Landsat time series"
+deliverables:
+  - "GeoPackage med våtmarkslager och metadata (HMK)"
+  - "PDF-kartor (A3/A4) + QML-stilar"
+  - "Rapport med trendanalys (PDF)"
+license_note: "Ange ev. datalicenser och restriktioner (Lantmäteriet m.fl.)."
