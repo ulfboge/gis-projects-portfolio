@@ -3,9 +3,9 @@ slug: "vatmarkskartering-miljoovervakning-2023-2025"
 client: "Länsstyrelsen Z"
 location: "Sverige"
 years: "2023–2025"
-tags: ["Våtmark", "SAR", "Sverige"]
+tags: ["Våtmark", "SAR", "Optik", "Sverige"]
 summary: >
-  SAR/optik-tidsserier för att kartlägga våtmarksförändringar.
+  Övervakning av våtmarker 2019–2025 med SAR/optik-tidsserier för att kartlägga status och trend.
 data_sources:
   national:
     - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"
@@ -20,3 +20,19 @@ deliverables:
   - "PDF-kartor (A3/A4) + QML-stilar"
   - "Rapport med trendanalys (PDF)"
 license_note: "Ange ev. datalicenser och restriktioner (Lantmäteriet m.fl.)."
+temporal_coverage:
+  start: 2019-01-01
+  end: 2025-12-31
+crs: "EPSG:3006"  # SWEREF99 TM
+bbox:
+  - 10.0   # minX
+  - 55.0   # minY
+  - 24.5   # maxX
+  - 69.5   # maxY
+contacts:
+  owner: "Länsstyrelsen Z"
+  analyst: "Konsult / Analytiker"
+methods:
+  - "Sentinel‑1: kalibrering, speckle‑filter, backscatter‑statistik"
+  - "Sentinel‑2: molnmask, NDWI/MNDWI/NDVI per säsong"
+  - "DEM‑derivat: flödesackumulation, sänkor"
