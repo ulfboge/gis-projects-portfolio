@@ -1,0 +1,39 @@
+
+site_name: GIS & Fjärranalys – Projektportfölj
+site_description: Exempelprojekt (Sverige) – Lantmäteriet, SLU, Skogsstyrelsen m.fl.
+site_url: https://ulfboge.github.io/gis-projects-portfolio/
+repo_url: https://github.com/ulfboge/gis-projects-portfolio
+theme:
+  name: material
+  language: sv
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
+    - search.highlight
+    - search.suggest
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Startsida: index.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kombagis
+    - icon: fontawesome/brands/github
+      link: https://github.com/ulfboge

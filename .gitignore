@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Stora datafiler – håll utanför git
+docs/projects/**/1_Data/**
+docs/projects/**/3_Outputs/**.tif
+docs/projects/**/3_Outputs/**.tiff
+docs/projects/**/3_Outputs/**.zip
+docs/projects/**/3_Outputs/**.gpkg

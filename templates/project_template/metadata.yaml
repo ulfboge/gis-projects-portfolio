@@ -1,0 +1,20 @@
+
+title: "[[Projektnamn]]"
+slug: "[[slug]]"
+client: "[[Beställare]]"
+location: "[[Plats]]"
+years: "[[År]]"
+tags: ["GIS", "Fjärranalys", "Sverige"]
+summary: >
+  Kort beskrivning av projektet (1–2 meningar). Vad, varför, hur.
+data_sources:
+  national:
+    - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"
+    - "SLU: Nationella Marktäckedata (NMD)"
+    - "Skogsstyrelsen: Skogliga grunddata"
+  other: []
+deliverables:
+  - "GeoPackage med lager och metadata (HMK)"
+  - "PDF-kartor (A3/A4) + QML-stilar"
+  - "Rapport (PDF)"
+license_note: "Ange ev. datalicenser och restriktioner (Lantmäteriet m.fl.)."

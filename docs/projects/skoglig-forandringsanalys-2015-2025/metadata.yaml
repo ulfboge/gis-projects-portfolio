@@ -1,0 +1,20 @@
+
+title: "Skoglig förändringsanalys 2015–2025"
+slug: "skoglig-forandringsanalys-2015-2025"
+client: "Länsstyrelsen X"
+location: "Småland"
+years: "2015–2025"
+tags: ["Skog", "Förändringsanalys", "Sverige"]
+summary: >
+  Jämför NMD 2015 och 2023 samt Laserdata NH för att kvantifiera förändring av skogsmark,
+  med arealstatistik, kartbilagor och metodrapport.
+data_sources:
+  national:
+    - "Lantmäteriet: Ortofoto, Laserdata NH, GSD-Hydrografi"
+    - "SLU: Nationella Marktäckedata (NMD) 2015–2023"
+    - "Skogsstyrelsen: Skogliga grunddata"
+deliverables:
+  - "GeoPackage (förändringspolygoner, klassning)"
+  - "PDF-karta (A3) med legend och layout"
+  - "Metodrapport (PDF)"
+license_note: "Observera datalicenser för Lantmäteriet/SLU/Skogsstyrelsen vid publicering."
